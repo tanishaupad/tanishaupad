@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://t4.ftcdn.net/jpg/02/78/72/85/360_F_278728588_OFVMy58e8nbUiwd6j4O5Uk94L46mEYsS.jpg"/>
+  <img src="https://t4.ftcdn.net/jpg/02/78/72/85/360_F_278728588_OFVMy58e8nbUiwd6j4O5Uk94L46mEYsS.jpg"/ alt="Credit to these people on the internet, I'm not sure, you can reverse search. I do not take ownership, I can just appreciate.">
 </div>
 ## :woman_technologist: About me 
 
